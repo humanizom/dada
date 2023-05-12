@@ -21,11 +21,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -294,6 +289,11 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
